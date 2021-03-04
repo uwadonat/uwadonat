@@ -1,4 +1,13 @@
-## Hello! 👋
+<h2> Hi, I'm Donat UWAMAHORO! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
+
+<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+   
+  
+   - 👯 I’m looking to collaborate on Bootstrap, JavaScript, React and Ruby on Rails Project.
+
+   - 🤔 I’m passionate about programming and I love travelling and reading as well.
+
+    - 📫 I’m business Advisor and innovation promotor
 
 ### <img src="assets/image.gif">
 
