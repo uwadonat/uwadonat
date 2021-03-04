@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-### <img src="assets/Banner-flicker.gif">
+### <img src="assets/image.gif">
 
 #### I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=knrm9p) as a remote full-stack dev student.
 
